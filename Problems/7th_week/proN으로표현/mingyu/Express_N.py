@@ -55,9 +55,8 @@ def solution(N, number):
     return -1
 
 
-print(solution(1, 1))
+''' 주석 없는 코드
 
-'''
 def solution(N, number):
     comb_N = [0, {N}]
 
